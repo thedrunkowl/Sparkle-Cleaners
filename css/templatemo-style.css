@@ -135,7 +135,7 @@ hr {
 	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(63,105,115,1)), color-stop(41%, rgba(47,95,107,1)), color-stop(100%, rgba(19,54,64,1)));
 	background: -webkit-gradient(linear, left top, left bottom, from(rgba(63,105,115,1)), color-stop(41%, rgba(47,95,107,1)), to(rgba(19,54,64,1)));
 	background: -webkit-linear-gradient(top, rgba(63,105,115,1) 0%, rgba(47,95,107,1) 41%, rgba(19,54,64,1) 100%);
-	background: linear-gradient(to bottom, rgba(63,105,115,1) 0%, rgba(47,95,107,1) 41%, rgba(19,54,64,1) 100%);
+	background: linear-gradient(to bottom, rgba(D84465) 0%, rgba(D84465) 41%, rgba(D84465) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3f6973', endColorstr='#133640', GradientType=0 );
 	color: white;
 	padding-top: 20px;
